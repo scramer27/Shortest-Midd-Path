@@ -1,0 +1,109 @@
+Programming Assignment 2 Specifications
+
+Satisfactory
+
+Behavioral Requirements
+
+Java program that outputs the shortest path directions from 75 Shannon St t
+o at least 2 food establishments in Middlebury. You should ask the person 
+running the algorithm where they would like to eat (give them at least two options), 
+and then provide directions to the location of their choice
+
+X
+
+Implements Bellman-Ford correctly
+
+X
+
+Runs in O(nm+n^2) time
+
+X
+
+Submission includes an ethical matrix that includes all major stakeholders and key ethical considerations. 
+
+X
+
+Identifies one ethical area of concern, and suggests a reasonable approach to ameliorate that concern
+
+X
+
+Deliverable Requirements
+
+A compressed directory (folder) called “ShortestMiddPath” that contains
+X
+·      “Main.java” file 
+X
+·      any other classes you create for your algorithm
+X
+·      README file
+X
+·      “Ethical Matrix” file
+X
+·      Directory called “Data” that contains the original data file (with only the streets around Middlebury, as in the view above) as well as any other test Data files that you create as part of testing
+X
+·      A copy of these specifications with your own assessment of whether you achieved each requirement (put x’s on those you believe you achieved)
+X
+ 
+
+main.java and any other classes should be part of the package “ShortestMiddPath”
+X
+ 
+
+README should have a section describing comparison to brute force for small-n instances
+X
+ 
+
+README should have a section describing how you tested code, especially edge cases and code obtained from allowed sources
+X
+ 
+
+README should include a section documenting resources used/help received, collaborations, and how they contributed to your final assignment. See result of honor code discussion.
+X
+ 
+
+If a resubmission, README include a Change Log section that describes main differences between this submission and the last, as well as the date of the last submission.
+N/A
+ 
+
+Ethical Matrix File should include an ethical matrix, should identify an area of concern in the matrix, and a method for ameliorating that concern
+X
+ 
+
+Style Requirements
+
+Appropriate use of comments to explain functionality
+X
+ 
+
+For code taken from an allowed source (more than 1-line, or complex syntax), include citation to source
+X
+ 
+
+Statements used for testing removed
+X
+ 
+
+Appropriate decomposition of code into reasonably sized functions
+X
+ 
+
+No obviously repeated sections of code - turn these into functions and call the function!
+X
+ 
+
+Clear organization
+X
+ 
+
+Consistent, well-named variables, functions, classes, etc.
+X
+ 
+
+Consistent naming style (e.g. consistent use of underscore names or camelCase)
+X
+ 
+
+Upper/Lower Case: Package names, Class names -> uppercase; variables, methods, parameters -> lowercase; constant names -> all upper case
+X
+ 
+
